@@ -1,6 +1,6 @@
 #EXTM3U
 
-nacionales, aire y noticias
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -195,7 +195,7 @@ https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.
 http://m.mtd.llc:2082/eldestape/index.mpd?|origin=https://www.telecentroplay.com.ar
 
 
-gran hermano
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fHz2EQodSu6BTklsp6OqLQ","k":"1y6eBolxwMv27uN5EGd11Q"},{"kty":"oct","kid":"3n197Ui0N9aRlmrNyKlyYg","k":"DRHMXVAueJSzZKS3yqu_9A"}],"type":"temporary"}
@@ -233,7 +233,7 @@ http://m.mtd.llc:8880/CH0100000000340/index.mpd?|Origin="android_mobile.directvg
 http://m.mtd.llc:8880/CH0100000000345/index.mpd?|Origin="android_mobile.directvgo.com"
 
 
-deportes (100xx)
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -422,7 +422,6 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.
 
 
 
-infantiles (200xx)
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -504,7 +503,6 @@ https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd?|r
 
 
 
-cine, novelas y series (300xx)
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15
@@ -815,7 +813,6 @@ https://cdn.cvattv.com.ar/live/c7eds//WarnerHD/SA_Live_dash_enc/WarnerHD.mpd?|re
 http://m.mtd.llc:8880/CH0100000000106/index.mpd?|Origin="android_mobile.directvgo.com"
 
 
-variedades (400xx)
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd
@@ -975,7 +972,7 @@ http://m.mtd.llc:8880/CH0100000000230/index.mpd?|origin=android_mobile.directvgo
 
 
 
-regionales (450xx)
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1105,7 +1102,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc/Senal_Maria.mp
 
 
 
-música
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
