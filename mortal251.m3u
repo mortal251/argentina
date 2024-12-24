@@ -1,6 +1,6 @@
 #EXTM3U
 
-
+nacionales, aire y noticias
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -10,7 +10,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisim
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ee7842b3cf24d1dba088365fa5d0543:69cec006409823c06fbf2866a231b4f7
-#EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title="Argentina" , Canal de la Ciudad
+#EXTINF:-1 group-title="Argentina" tvg-id="CanaldelaCiudad.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png", Canal de la Ciudad
 https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc/Canal_de_la_ciudad.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -25,7 +25,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
-#EXTINF:-1tvg-id="Telemax.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png"  group-title="Argentina" , Telemax
+#EXTINF:-1 group-title="Argentina" tvg-id="Telemax.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png", Telemax
 https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CARAS.png?raw=true" group-title="Argentina", Caras TV
@@ -195,7 +195,7 @@ https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.
 http://m.mtd.llc:2082/eldestape/index.mpd?|origin=https://www.telecentroplay.com.ar
 
 
-
+gran hermano
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fHz2EQodSu6BTklsp6OqLQ","k":"1y6eBolxwMv27uN5EGd11Q"},{"kty":"oct","kid":"3n197Ui0N9aRlmrNyKlyYg","k":"DRHMXVAueJSzZKS3yqu_9A"}],"type":"temporary"}
@@ -233,7 +233,7 @@ http://m.mtd.llc:8880/CH0100000000340/index.mpd?|Origin="android_mobile.directvg
 http://m.mtd.llc:8880/CH0100000000345/index.mpd?|Origin="android_mobile.directvgo.com"
 
 
-
+deportes (100xx)
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -422,6 +422,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.
 
 
 
+infantiles (200xx)
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -503,6 +504,7 @@ https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd?|r
 
 
 
+cine, novelas y series (300xx)
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15
@@ -813,6 +815,7 @@ https://cdn.cvattv.com.ar/live/c7eds//WarnerHD/SA_Live_dash_enc/WarnerHD.mpd?|re
 http://m.mtd.llc:8880/CH0100000000106/index.mpd?|Origin="android_mobile.directvgo.com"
 
 
+variedades (400xx)
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd
@@ -972,7 +975,7 @@ http://m.mtd.llc:8880/CH0100000000230/index.mpd?|origin=android_mobile.directvgo
 
 
 
-
+regionales (450xx)
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1102,7 +1105,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc/Senal_Maria.mp
 
 
 
-
+música
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
