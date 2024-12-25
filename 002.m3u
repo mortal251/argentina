@@ -1,6 +1,9 @@
 #EXTM3U
 
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
+#EXTINF:-1 tvg-id="Metro.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/METRO.png?raw=true" group-title="Nacionales" , METRO
+https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
@@ -86,8 +89,6 @@ https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telef
 #EXTINF:-1 ch-number="12" tvg-id="ElDoce.ar" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="Córdoba", El Doce Córdoba
 https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 ch-number="12" tvg-id="ElDoce.ar" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="Córdoba", El Doce Córdoba
-https://ythls-v3.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
@@ -131,10 +132,7 @@ https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd?|ref
 #EXTINF:-1  tvg-id="Encuentro.ar.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CENC.png?raw=true" group-title="Argentina", Encuentro
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
-#EXTINF:-1 group-title="Argentina"  tvg-id="Metro.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/METRO.png?raw=true", METRO
-https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=324ec73787744554ae1aef231a4f8f97:677a040674d1d0eccef327269b222bae
